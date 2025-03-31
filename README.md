@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @derudyk, and my name is Denys;
-- 👀 I’m interested in game dev, although I do not study it at uni;
+- 👀 I’m interested in game dev;
 - 🌱 I’m currently learning GML for Game Maker and Java for uni;
 - 💞️ I’m not looking to coolaborate yet;
 - 📫 How to reach me either @de_rudyk on ig or email me ellementarus@gmail.com. These two are the best way to reach me;

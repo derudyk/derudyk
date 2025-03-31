@@ -4,7 +4,6 @@
 - 💞️ I’m not looking to coolaborate yet;
 - 📫 How to reach me either @de_rudyk on ig or email me ellementarus@gmail.com. These two are the best way to reach me;
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I pee;
 
 <!---
 derudyk/derudyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
